@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="origin" fetch="git@github.com:zxy061/">
-	<default revision="master" remote="origin" sync-j="4">
+	<remote name="origin" fetch="git@github.com:zxy061/"/>
+	<default revision="master" remote="origin" sync-j="4"/>
 	<project path="zxy" name="zxy"/>
 	<project path="hao" name="hao"/>
 	<project path="log" name="log"/>
