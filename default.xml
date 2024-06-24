@@ -2,7 +2,8 @@
 <manifest>
 	<remote name="origin" fetch="git@github.com:zxy061/"/>
 	<default revision="master" remote="origin" sync-j="4"/>
-	<project path="zxy" name="zxy"/>
-	<project path="hao" name="hao"/>
-	<project path="log" name="log"/>
+	<project path="log.git" name="log"/>
+	<project path="log2.git" name="log2"/>
+	<project path="hao.git" name="hao"/>
+
 </manifest>
